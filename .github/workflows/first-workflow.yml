@@ -11,4 +11,4 @@ jobs:
         run: |-
           echo "Printing versions of npm and node"
           node -v
-          npm -v
+          npm -v 
